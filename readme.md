@@ -13,8 +13,7 @@
 ---
 ### The above html pages contains the basic informaton of perticular character in the story. ###
 ---
-# Characters-
-![](./images/baloo.jpeg)![](./images/bagheera.jpeg)  ![](./images/raksha-1.jpeg)   ![](./images/sherekhan-1.jpeg)    ![]()    ![](./images/home-img.jpeg)
+
 
 
 
