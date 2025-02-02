@@ -2,14 +2,14 @@
 
 ![The Jungle book](./images/mowgli-1.jpeg)
 
- It includes the following pages -
+- It includes the following characters -
 
-1. index.html
-2. bagheera.html
-3. baloo.html
-4. raksha.html
-5. sherekhan.html
-6. tabaqui.html
+1. Mowgli
+2. Bagheera
+3. Baloo
+4. Raksha 
+5. Sherekhan
+6. Tabaqui
 ---
 ### The above html pages contains the basic informaton of perticular character in the story. ###
 ---
